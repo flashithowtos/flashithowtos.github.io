@@ -26,6 +26,7 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
   <figcaption>Click to watch the video procedure</figcaption>
 </figure>
 
+
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
 * Select the user (in our example Bob) and then in the **Apply to** tick only **This folder**
