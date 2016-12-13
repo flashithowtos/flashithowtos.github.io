@@ -14,7 +14,7 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
   </figure>
 </a>
 
-![dir_tree_example.png](/images/dir_tree_example.png)
+<img src="images/dir_tree_example.png">
 
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
