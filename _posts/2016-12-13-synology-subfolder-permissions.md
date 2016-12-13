@@ -20,4 +20,5 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
 This is it! Now **Bob** can Read/Write inside **Sub_sub_folder1** but he can only list the other folders.
 This procedure is necessary if you want your user to access the folder by himself using Windows Explorer, otherwise you could map the folder as a network drive and give the required permissions only to the desired folder.
 
-
+Here's a video if you want to visualize the procedure:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg)](http://www.youtube.com/watch?v=BysV2Pbz_ps)
