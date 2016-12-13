@@ -8,7 +8,7 @@ The request was that he should be able to read and write inside the folder but h
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
 <div>
   <div>
-    <img src="/images/dir_tree_example.png" width="200" height="200" />
+    <img style="float: right;" src="/images/dir_tree_example.png" width="200" height="200" />
   </div>
   <div>
     <figure>
