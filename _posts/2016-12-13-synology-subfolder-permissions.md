@@ -4,9 +4,9 @@ title: "How to: Assign permissions for a specific subfolder on Synology NAS"
 ---
 <style>
 figure {
-    width: 25%;
+    width: 50%;
     float: left;
-    margin: 0;
+    margin: 10;
     text-align: center;
     padding: 0;
 }
@@ -17,7 +17,7 @@ The request was that he should be able to read and write inside the folder but h
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
 
 <figure>
-  <img src="/images/dir_tree_example.png" width="200" height="200" />
+  <img src="/images/dir_tree_example.png" />
 </figure>
 <figure>
   <a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
