@@ -7,6 +7,13 @@ The request was that he should be able to read and write inside the folder but h
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
 
+<a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
+  <figure>
+    <p><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></p>
+    <p><figcaption>Click to watch the video procedure</figcaption></p>
+  </figure>
+</a>
+
 ![dir_tree_example.png](/images/dir_tree_example.png)
 
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
@@ -20,5 +27,3 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
 
 This is it! Now **Bob** can Read/Write inside **Sub_sub_folder1** but he can only list the other folders.
 This procedure is necessary if you want your user to access the folder by himself using Windows Explorer, otherwise you could map the folder as a network drive and give the required permissions only to the desired folder.
-
-<a href="http://www.youtube.com/watch?v=BysV2Pbz_ps"><figure><p><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></p><p><figcaption>Click to watch the video procedure</figcaption></p></figure></a>
