@@ -1,5 +1,6 @@
 ---
 layout: post
+date: "2016-12-13"
 title: How To: Assign permissions for a specific subfolder on Synology NAS
 ---
 A couple of days ago i stumbled upon this problem as I was trying to grant read and write permissions to one of my colleagues that had to access a specific subfolder which was a third tier level down the Synology Filesystem.
