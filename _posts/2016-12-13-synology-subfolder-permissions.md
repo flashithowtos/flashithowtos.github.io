@@ -7,7 +7,7 @@ The request was that he should be able to read and write inside the folder but h
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
 
-![dir_tree_example.png](/images/dir_tree_example.png)[![](http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg =250x)](http://www.youtube.com/watch?v=BysV2Pbz_ps)
+![dir_tree_example.png](/images/dir_tree_example.png)[![](<img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" width="250" height="200" />)](http://www.youtube.com/watch?v=BysV2Pbz_ps)
 
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
