@@ -15,7 +15,6 @@ A couple of days ago i stumbled upon this problem as I was trying to grant read 
 The request was that he should be able to read and write inside the folder but he couldn't access anything else outside of it.
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
-
 <figure>
   <img src="/images/dir_tree_example.png" />
 </figure>
@@ -25,8 +24,6 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
   </a>
   <figcaption>Click to watch the video procedure</figcaption>
 </figure>
-
-
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
 * Select the user (in our example Bob) and then in the **Apply to** tick only **This folder**
