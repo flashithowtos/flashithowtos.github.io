@@ -2,23 +2,11 @@
 layout: post
 title: "How to: Assign permissions for a specific subfolder on Synology NAS"
 ---
-<style>
-figure {
-    width: 50%;
-    float: left;
-    margin: 10;
-    text-align: center;
-    padding: 0;
-}
-</style>
-
 A couple of days ago i stumbled upon this problem as I was trying to grant read and write permissions to one of my colleagues that had to access a specific subfolder which was a third tier level down the Synology Filesystem.
 The request was that he should be able to read and write inside the folder but he couldn't access anything else outside of it.
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
-<div>
-<figure><img src="/images/dir_tree_example.png" /></figure><figure><a href="http://www.youtube.com/watch?v=BysV2Pbz_ps"><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></a><figcaption>Click to watch the video procedure</figcaption></figure>
-</div><br>
+<img src="/images/dir_tree_example.png" />
 
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
@@ -32,3 +20,4 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
 This is it! Now **Bob** can Read/Write inside **Sub_sub_folder1** but he can only list the other folders.
 This procedure is necessary if you want your user to access the folder by himself using Windows Explorer, otherwise you could map the folder as a network drive and give the required permissions only to the desired folder.
 
+<figure><a href="http://www.youtube.com/watch?v=BysV2Pbz_ps"><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></a><figcaption>Click to watch the video procedure</figcaption></figure>
