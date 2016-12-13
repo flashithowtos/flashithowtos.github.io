@@ -9,8 +9,8 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
 
 <a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
   <figure>
-    <p><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></p>
-    <p><figcaption>Click to watch the video procedure</figcaption></p>
+    <p align="center"><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></p>
+    <p align="center"><figcaption>Click to watch the video procedure</figcaption></p>
   </figure>
 </a>
 
