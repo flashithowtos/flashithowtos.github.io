@@ -6,11 +6,11 @@ A couple of days ago i stumbled upon this problem as I was trying to grant read 
 The request was that he should be able to read and write inside the folder but he couldn't access anything else outside of it.
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
-<div>
-  <div align="left">
+<div style="display:inline-block;">
+  <div>
     <img src="/images/dir_tree_example.png" width="200" height="200" />
   </div>
-  <div align="left">
+  <div>
     <a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
       <figure>
 	<img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/>
