@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2016-12-13"
+date: 2016-12-13
 title: How To: Assign permissions for a specific subfolder on Synology NAS
 future: true
 ---
