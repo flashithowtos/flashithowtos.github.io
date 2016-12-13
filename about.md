@@ -14,4 +14,5 @@ This blog was born with the purpose of gathering quick tips about things I had t
 
 ### Contact me
 If you ever feel the need to get in touch with me for technical question ( or to get a beer! ) feel free to e-mail me at:
+
 [flashithowtos@gmail.com](mailto:flashithowtos@gmail.com)
