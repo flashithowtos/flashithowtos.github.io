@@ -24,3 +24,4 @@ This procedure is necessary if you want your user to access the folder by himsel
 Here's a video if you want to visualize the procedure:
 
 [![](http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg=100x20)](http://www.youtube.com/watch?v=BysV2Pbz_ps)
+<a href="http://www.youtube.com/watch?v=BysV2Pbz_ps"><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg"></a>
