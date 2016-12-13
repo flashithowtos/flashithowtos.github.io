@@ -7,13 +7,19 @@ The request was that he should be able to read and write inside the folder but h
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
 <div>
-<img src="/images/dir_tree_example.png">
-<a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
-  <figure>
-    <p align="center"><img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/></p>
-    <p align="center"><figcaption>Click to watch the video procedure</figcaption></p>
-  </figure>
-</a>
+  <div align="left">
+    <img src="/images/dir_tree_example.png" />
+  </div>
+  <div align="right">
+    <a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
+      <figure>
+        <p align="center">
+	  <img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/>
+	</p>
+        <p align="center"><figcaption>Click to watch the video procedure</figcaption></p>
+      </figure>
+    </a>
+  </div>
 </div>
 * Select **File Station** and right-click on **root** folder and then go to **Properties**
 * In the **Permission** tab click **Create**
