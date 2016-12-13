@@ -10,13 +10,11 @@ So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop 
   <div align="left">
     <img src="/images/dir_tree_example.png" width="200" height="200" />
   </div>
-  <div align="right">
+  <div align="left">
     <a href="http://www.youtube.com/watch?v=BysV2Pbz_ps">
       <figure>
-        <p>
-	  <img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/>
-	</p>
-        <p><figcaption>Click to watch the video procedure</figcaption></p>
+	<img src="http://img.youtube.com/vi/BysV2Pbz_ps/0.jpg" title="Click to watch the video procedure" width="200" height="200"/>
+        <figcaption>Click to watch the video procedure</figcaption>
       </figure>
     </a>
   </div>
