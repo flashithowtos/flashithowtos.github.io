@@ -2,18 +2,11 @@
 layout: post
 title: "How to: Assign permissions for a specific subfolder on Synology NAS"
 ---
-<style>
-.container {
-      display:inline-block;
-}
-</style>
-
-
 A couple of days ago i stumbled upon this problem as I was trying to grant read and write permissions to one of my colleagues that had to access a specific subfolder which was a third tier level down the Synology Filesystem.
 The request was that he should be able to read and write inside the folder but he couldn't access anything else outside of it.
 
 So I want my user called **Bob** to access folder **Sub_sub_folder1**. Lets hop in and try to explain starting with this example:
-<div class="container">
+<div>
   <div>
     <img src="/images/dir_tree_example.png" width="200" height="200" />
   </div>
