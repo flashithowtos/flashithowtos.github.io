@@ -1,13 +1,6 @@
 ---
-ID: 15
-post_title: Shutdown computers with PowerShell
-author: flashithowtos
-post_date: 2016-12-15 08:58:56
-post_excerpt: ""
+title: "Shutdown computers with PowerShell"
 layout: post
-permalink: >
-  http://192.168.113.84:8080/wordpress/2016/12/15/shutdown-computers-with-powershell/
-published: true
 ---
 A couple of days ago I needed some kind of automation to shutdown several computers on my LAN that were also part of the company domain. So I came up with this script that runs as a Scheduled task on my Domain Controller:
 <pre class="lang:ps decode:true">$computers = Get-Content C:\computers.txt
